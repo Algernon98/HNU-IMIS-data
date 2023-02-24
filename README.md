@@ -12,7 +12,7 @@ CS自学指南：https://csdiy.wiki/
 
 上交生存手册：https://survivesjtu.gitbook.io/survivesjtumanual/
 
-川大计软网：https://scu-cs-runner.github.io/SurviveSCUManual/
+川大计软网生存手册：https://scu-cs-runner.github.io/SurviveSCUManual/
 
 **值得了解的网站**：
 
