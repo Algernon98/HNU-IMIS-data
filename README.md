@@ -15,7 +15,7 @@ CS自学指南：https://csdiy.wiki/
 川大计软网生存手册：https://scu-cs-runner.github.io/SurviveSCUManual/
 
 
-**课程资料共享计划**：
+**友链**：
 
 
 西安交通大学课程资料共享计划：https://github.com/sdu-openlab/OpenCourse
@@ -26,6 +26,10 @@ CS自学指南：https://csdiy.wiki/
 
 电子科技大学课程资料共享计划：https://github.com/Xovee/uestc-course
 
+浙大：
+1.一个ZJU本科生的计算机/地理信息科学知识库 https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes
+
+2.ZJU_Course课程资料整理： https://github.com/RyanFcr/ZJU_Course
 
 **值得了解的网站**：
 
